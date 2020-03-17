@@ -1,5 +1,4 @@
 "use strict";
-import { gsap } from "gsap";
 
 console.log("Script running");
 
